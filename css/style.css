@@ -1,0 +1,24 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: grey;
+}
+    
+.foto{
+    border-radius: 50px;
+    width: 250px;
+}
+
+.principal{
+    display: flex;
+}
+
+.columna1{
+    width: 50%;
+}
+.columna2{
+    width: 50%;
+}
+.pie{
+    color:white;
+    background-color: black;
+}
